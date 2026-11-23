@@ -1,0 +1,2452 @@
+{
+  "records": {
+    "1526788": {
+      "job_no": "1526788",
+      "school_raw": "Wodonga Senior Sec. College",
+      "position": "Classroom Teacher - Psychology",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1526801": {
+      "job_no": "1526801",
+      "school_raw": "Wodonga Senior Sec. College",
+      "position": "Classroom Teacher - Psychology/Humanities",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1534775": {
+      "job_no": "1534775",
+      "school_raw": "Clyde Secondary College",
+      "position": "Classroom Teacher - Food Technology",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1539375": {
+      "job_no": "1539375",
+      "school_raw": "Walcom Ngarrwa Secondary Coll",
+      "position": "English Teacher & any other method",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1540518": {
+      "job_no": "1540518",
+      "school_raw": "Ararat Secondary College",
+      "position": "Groundskeeper",
+      "classification": "ES1-2",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1540845": {
+      "job_no": "1540845",
+      "school_raw": "Ballarat High School",
+      "position": "Assistant Principal Years 8 & 9 Sub School",
+      "classification": "AP-3",
+      "role_group": "leadership",
+      "first_seen": "2026-11-23"
+    },
+    "1540960": {
+      "job_no": "1540960",
+      "school_raw": "Pakenham Hills Primary School",
+      "position": "Classroom Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1541301": {
+      "job_no": "1541301",
+      "school_raw": "Balambalam Primary School",
+      "position": "2027 Speech Pathologist - Time Fraction 0.6",
+      "classification": "ES1-4",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1541588": {
+      "job_no": "1541588",
+      "school_raw": "Parkville College",
+      "position": "Classroom Teacher Generalist - Malmsbury $9,000 Incentive Offer!",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1541602": {
+      "job_no": "1541602",
+      "school_raw": "Parkville College",
+      "position": "Classroom Teacher VET Barbering/Hairdressing - Malmsbury $9,000 Incentive Offer!",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1541631": {
+      "job_no": "1541631",
+      "school_raw": "Lakes Entrance Primary School",
+      "position": "Generalist Primary School Teacher (TFI 087)",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1541705": {
+      "job_no": "1541705",
+      "school_raw": "Walcom Ngarrwa Secondary Coll",
+      "position": "Physical Education, Health & Cricket Academy - Term 4 Start",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1541991": {
+      "job_no": "1541991",
+      "school_raw": "Kangaroo Ground Primary School",
+      "position": "Principal-Range 3",
+      "classification": "PR-3",
+      "role_group": "leadership",
+      "first_seen": "2026-11-23"
+    },
+    "1542003": {
+      "job_no": "1542003",
+      "school_raw": "Ngarri Primary School",
+      "position": "2027 Classroom Teacher Located in Manor Lakes",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1542220": {
+      "job_no": "1542220",
+      "school_raw": "Belvoir School",
+      "position": "Learning Specialist 3 - Mathematics 3 years",
+      "classification": "LEARN",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1542226": {
+      "job_no": "1542226",
+      "school_raw": "Belvoir School",
+      "position": "Education Support Level 1 - Range 2 - Ongoing - 0.9",
+      "classification": "ES1-2",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1542228": {
+      "job_no": "1542228",
+      "school_raw": "Belvoir School",
+      "position": "Education Support Level 1 - Range 2 - Ongoing - 0.9",
+      "classification": "ES1-2",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1542229": {
+      "job_no": "1542229",
+      "school_raw": "Belvoir School",
+      "position": "Education Support Level 1 - Range 2 - Ongoing - 0.9",
+      "classification": "ES1-2",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1542230": {
+      "job_no": "1542230",
+      "school_raw": "Belvoir School",
+      "position": "Education Support Level 1 - Range 2 - Ongoing - 0.9",
+      "classification": "ES1-2",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1542232": {
+      "job_no": "1542232",
+      "school_raw": "Belvoir School",
+      "position": "Education Support Level 1 - Range 2 - Ongoing - 0.9",
+      "classification": "ES1-2",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1542276": {
+      "job_no": "1542276",
+      "school_raw": "Hamlyn Views School",
+      "position": "Integration Aide - Special School",
+      "classification": "ES1-2",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1542415": {
+      "job_no": "1542415",
+      "school_raw": "Charles LaTrobe P-12 College",
+      "position": "Leading Teacher - Student Engagement Co-ordinator",
+      "classification": "LEAD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1543001": {
+      "job_no": "1543001",
+      "school_raw": "Geelong High School",
+      "position": "Finance & Accounts Officer",
+      "classification": "ES1-3",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1543036": {
+      "job_no": "1543036",
+      "school_raw": "Brinbeal Secondary College",
+      "position": "HAPE Teacher (Ongoing) - 2027 - new opportunity with a growing school",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1543052": {
+      "job_no": "1543052",
+      "school_raw": "Brinbeal Secondary College",
+      "position": "HAPE Teacher (Ongoing) - 2027 - new opportunity with a growing school",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1543190": {
+      "job_no": "1543190",
+      "school_raw": "Laa Yulta Primary School",
+      "position": "Classroom Teacher - Commencing 2027",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1543295": {
+      "job_no": "1543295",
+      "school_raw": "Tarneit Senior College",
+      "position": "Leading Teacher- English",
+      "classification": "LEAD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1543298": {
+      "job_no": "1543298",
+      "school_raw": "Schl Finance Liaison & Support",
+      "position": "SASH - Business Manager",
+      "classification": "ES1-4",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1543486": {
+      "job_no": "1543486",
+      "school_raw": "School for Student Leadership",
+      "position": "Campus Principal - Dinner Plain Campus",
+      "classification": "AP-2",
+      "role_group": "leadership",
+      "first_seen": "2026-11-23"
+    },
+    "1543699": {
+      "job_no": "1543699",
+      "school_raw": "Yea High School",
+      "position": "Leading Teacher - Educational Leadership",
+      "classification": "LEAD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1543700": {
+      "job_no": "1543700",
+      "school_raw": "Yea High School",
+      "position": "Leading Teacher - Educational Leadership",
+      "classification": "LEAD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1543787": {
+      "job_no": "1543787",
+      "school_raw": "Hamlyn Views School",
+      "position": "Integration Aide - Special School",
+      "classification": "ES1-2",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1543815": {
+      "job_no": "1543815",
+      "school_raw": "Hamlyn Views School",
+      "position": "Integration Aide - Special School",
+      "classification": "ES1-2",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1543842": {
+      "job_no": "1543842",
+      "school_raw": "Ngayuk College",
+      "position": "Graduate English and Humanities Teacher",
+      "classification": "GRD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1543904": {
+      "job_no": "1543904",
+      "school_raw": "The Grange P-12 College",
+      "position": "Assistant Principal- Disability and Inclusion Curriculum/ Teacher Coaching",
+      "classification": "AP-1",
+      "role_group": "leadership",
+      "first_seen": "2026-11-23"
+    },
+    "1543948": {
+      "job_no": "1543948",
+      "school_raw": "Muyan Primary School",
+      "position": "2027 Classroom Teacher 2027 (Muyan PS Wallan East)",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1543949": {
+      "job_no": "1543949",
+      "school_raw": "Muyan Primary School",
+      "position": "2027 Classroom Teacher 2027 (Muyan PS Wallan East)",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1544112": {
+      "job_no": "1544112",
+      "school_raw": "Preston High School",
+      "position": "Science Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1544116": {
+      "job_no": "1544116",
+      "school_raw": "Preston High School",
+      "position": "Maths and Science Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1544155": {
+      "job_no": "1544155",
+      "school_raw": "Murrum Primary School",
+      "position": "2027 Ongoing Classroom Teacher",
+      "classification": "CLASS2",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1544186": {
+      "job_no": "1544186",
+      "school_raw": "Ngayuk College",
+      "position": "Intergration Aide",
+      "classification": "ES1-2",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1544187": {
+      "job_no": "1544187",
+      "school_raw": "Ngayuk College",
+      "position": "Integration Aide",
+      "classification": "ES1-2",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1544250": {
+      "job_no": "1544250",
+      "school_raw": "Port Melbourne Sec College",
+      "position": "Leading Teacher - Student Life (Years 7 to 9) - 3 Year Tenure",
+      "classification": "LEAD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1544536": {
+      "job_no": "1544536",
+      "school_raw": "Canterbury Girls Sec. College",
+      "position": "Senior Mathematics/Maths Methods/Junior Science Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1544743": {
+      "job_no": "1544743",
+      "school_raw": "Oberon High School",
+      "position": "Classroom Teacher - Yr 9/10 Practical Pathways Program",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1545058": {
+      "job_no": "1545058",
+      "school_raw": "Lakeview Senior College",
+      "position": "Leading Teacher-Inclusion - 2027 Commencement",
+      "classification": "LEAD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1545153": {
+      "job_no": "1545153",
+      "school_raw": "Lakeview Senior College",
+      "position": "Leading Teacher - Student Management",
+      "classification": "LEAD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1545156": {
+      "job_no": "1545156",
+      "school_raw": "Lakeview Senior College",
+      "position": "Leading Teacher - Student Management",
+      "classification": "LEAD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1545714": {
+      "job_no": "1545714",
+      "school_raw": "Williamstown North Primary Sch",
+      "position": "Classroom Teacher (Ongoing 1.0)",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1545715": {
+      "job_no": "1545715",
+      "school_raw": "Williamstown North Primary Sch",
+      "position": "Classroom Teacher (Ongoing 1.0)",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1545727": {
+      "job_no": "1545727",
+      "school_raw": "Ascot Vale Heights School",
+      "position": "Speech Therapist- Ascot Vale Heights School - ES Range 5 - NEW POSITION",
+      "classification": "ES1-5",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1545809": {
+      "job_no": "1545809",
+      "school_raw": "Craigieburn Secondary College",
+      "position": "Pedagogy for Engagement (Year 7) Leading Teacher (Starting 2027)",
+      "classification": "LEAD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1545989": {
+      "job_no": "1545989",
+      "school_raw": "Birchip P-12 School",
+      "position": "Assistant Principal-Range 1",
+      "classification": "AP-1",
+      "role_group": "leadership",
+      "first_seen": "2026-11-23"
+    },
+    "1546022": {
+      "job_no": "1546022",
+      "school_raw": "Hallam Secondary College",
+      "position": "Principal-Range 5",
+      "classification": "PR-5",
+      "role_group": "leadership",
+      "first_seen": "2026-11-23"
+    },
+    "1546136": {
+      "job_no": "1546136",
+      "school_raw": "Sunbury Downs Secondary Colleg",
+      "position": "*2027 Commencement - Leading Teacher Range 3 - Sub-School",
+      "classification": "LEAD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1546158": {
+      "job_no": "1546158",
+      "school_raw": "Marra School",
+      "position": "Classroom Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1546285": {
+      "job_no": "1546285",
+      "school_raw": "Parkville College",
+      "position": "Classroom Teacher VET Art - Cherry Creek",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1546310": {
+      "job_no": "1546310",
+      "school_raw": "Officer Specialist School",
+      "position": "Graduate Teacher Program 2027",
+      "classification": "GRD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1546594": {
+      "job_no": "1546594",
+      "school_raw": "Wollert Secondary College",
+      "position": "Classroom Teacher - English plus another method",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1546604": {
+      "job_no": "1546604",
+      "school_raw": "Wollert Secondary College",
+      "position": "Classroom Teacher - Drama plus another method",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1546607": {
+      "job_no": "1546607",
+      "school_raw": "Yarram Secondary College",
+      "position": "Classroom Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1546675": {
+      "job_no": "1546675",
+      "school_raw": "Glenroy Specialist School",
+      "position": "Music Therapist",
+      "classification": "ES1-3",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1546695": {
+      "job_no": "1546695",
+      "school_raw": "Diamond Valley College",
+      "position": "Learning Specialist - Curriculum and Instructional Coaching",
+      "classification": "LEARN",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1546786": {
+      "job_no": "1546786",
+      "school_raw": "Diamond Valley College",
+      "position": "Leading Teacher - Sub-School Leader (Junior)",
+      "classification": "LEAD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1546793": {
+      "job_no": "1546793",
+      "school_raw": "Diamond Valley College",
+      "position": "Learning Specialist - Curriculum and Instructional Coaching",
+      "classification": "LEARN",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1546818": {
+      "job_no": "1546818",
+      "school_raw": "Donnybrook Primary School",
+      "position": "Classroom ES : 30hrs 5 days",
+      "classification": "ES1-2",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1546834": {
+      "job_no": "1546834",
+      "school_raw": "Tullamarine Primary School",
+      "position": "Curriculum Innov & Leadership",
+      "classification": "LEAD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1546836": {
+      "job_no": "1546836",
+      "school_raw": "Beeac Primary School",
+      "position": "Integration Teacher Aide",
+      "classification": "ES1-2",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1546877": {
+      "job_no": "1546877",
+      "school_raw": "Mickleham Secondary College",
+      "position": "Leading Teacher - Senior School Academic Coordinator",
+      "classification": "LEAD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1546906": {
+      "job_no": "1546906",
+      "school_raw": "Brighton Secondary College",
+      "position": "Leading Teacher Range 3 - Year Level coordinator",
+      "classification": "LEAD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1546939": {
+      "job_no": "1546939",
+      "school_raw": "Hallam Secondary College",
+      "position": "Health and Physical Education Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1546945": {
+      "job_no": "1546945",
+      "school_raw": "Walcom Ngarrwa Secondary Coll",
+      "position": "Food Technology Teacher & any other method",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1546964": {
+      "job_no": "1546964",
+      "school_raw": "Niddrie Autistic School",
+      "position": "Teacher Support 0.97 time fraction 5 days/week - Multi Campus - Niddrie and Keilor East",
+      "classification": "ES1-2",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1546965": {
+      "job_no": "1546965",
+      "school_raw": "Niddrie Autistic School",
+      "position": "Teacher Support 0.97 time fraction 5 days/week - Multi Campus - Niddrie and Keilor East",
+      "classification": "ES1-2",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1546974": {
+      "job_no": "1546974",
+      "school_raw": "Niddrie Autistic School",
+      "position": "Teacher Support 0.81 time fraction 5 days/week - Multi Campus - Niddrie and Keilor East",
+      "classification": "ES1-2",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1547002": {
+      "job_no": "1547002",
+      "school_raw": "Dandenong High School",
+      "position": "Learning Specialist Range 3 Literacy",
+      "classification": "LEARN",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1547033": {
+      "job_no": "1547033",
+      "school_raw": "Forest Hill College",
+      "position": "Principal-Range 4",
+      "classification": "PR-4",
+      "role_group": "leadership",
+      "first_seen": "2026-11-23"
+    },
+    "1547057": {
+      "job_no": "1547057",
+      "school_raw": "Bayswater North Primary School",
+      "position": "Graduate Teacher Program",
+      "classification": "GRD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1547083": {
+      "job_no": "1547083",
+      "school_raw": "Rangebank Primary School",
+      "position": "Tier 2 Education Support",
+      "classification": "ES1-3",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1547093": {
+      "job_no": "1547093",
+      "school_raw": "Swinburne Senior Sec College",
+      "position": "Learning Specialist - Instructional Practice",
+      "classification": "LEARN",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1547098": {
+      "job_no": "1547098",
+      "school_raw": "Swinburne Senior Sec College",
+      "position": "Leading Teacher Range 3 - Monitoring and Intervention",
+      "classification": "LEAD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1547106": {
+      "job_no": "1547106",
+      "school_raw": "Swinburne Senior Sec College",
+      "position": "Leading Teacher Range 3 - Pathways and Engagement",
+      "classification": "LEAD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1547110": {
+      "job_no": "1547110",
+      "school_raw": "Swinburne Senior Sec College",
+      "position": "Leading Teacher Range 3 - Learning Operations",
+      "classification": "LEAD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1547115": {
+      "job_no": "1547115",
+      "school_raw": "Swinburne Senior Sec College",
+      "position": "Leading Teacher Range 3 - Curriculum and Student Learning",
+      "classification": "LEAD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1547165": {
+      "job_no": "1547165",
+      "school_raw": "Doncaster Secondary College",
+      "position": "Assistant Principal-Range 3",
+      "classification": "AP-3",
+      "role_group": "leadership",
+      "first_seen": "2026-11-23"
+    },
+    "1547170": {
+      "job_no": "1547170",
+      "school_raw": "Wodonga Middle Years College",
+      "position": "Assistant Principal Range 2 - Educational Leadership",
+      "classification": "AP-2",
+      "role_group": "leadership",
+      "first_seen": "2026-11-23"
+    },
+    "1547204": {
+      "job_no": "1547204",
+      "school_raw": "Roxburgh Park Primary School",
+      "position": "Graduate Teacher Program",
+      "classification": "GRD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1547215": {
+      "job_no": "1547215",
+      "school_raw": "Roxburgh Park Primary School",
+      "position": "Graduate Teacher Program",
+      "classification": "GRD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1547242": {
+      "job_no": "1547242",
+      "school_raw": "Mindalk Primary School",
+      "position": "Physical Education Teacher - (Time Fraction negotiable)",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1547322": {
+      "job_no": "1547322",
+      "school_raw": "Bannockburn P-12 College",
+      "position": "Learning Specialist - English/Literacy Leader P-12",
+      "classification": "LEARN",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1547355": {
+      "job_no": "1547355",
+      "school_raw": "Northern School for Autism",
+      "position": "Classroom Teacher - 2027",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1547370": {
+      "job_no": "1547370",
+      "school_raw": "Footscray West Primary School",
+      "position": "Principal-Range 4",
+      "classification": "PR-4",
+      "role_group": "leadership",
+      "first_seen": "2026-11-23"
+    },
+    "1547379": {
+      "job_no": "1547379",
+      "school_raw": "Queenscliff Primary School",
+      "position": "Classroom Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1547430": {
+      "job_no": "1547430",
+      "school_raw": "Keelonith Primary School",
+      "position": "2027 ONGOING Classroom Teacher - SoL School. GRADUATES encouraged to apply!",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1547438": {
+      "job_no": "1547438",
+      "school_raw": "Balambalam Primary School",
+      "position": "2027 Leading Teacher Range 3 Wellbeing and Inclusion (3-year tenure)",
+      "classification": "LEAD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1547462": {
+      "job_no": "1547462",
+      "school_raw": "Ascot Vale Heights School",
+      "position": "Business Manager - ES1-5 - Ascot Vale",
+      "classification": "ES1-5",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1547468": {
+      "job_no": "1547468",
+      "school_raw": "Narracan Primary School",
+      "position": "Principal-Range 2",
+      "classification": "PR-2",
+      "role_group": "leadership",
+      "first_seen": "2026-11-23"
+    },
+    "1547496": {
+      "job_no": "1547496",
+      "school_raw": "Kyabram P-12 College",
+      "position": "Classroom Teacher - Auslan & English (Year 7-12)",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1547557": {
+      "job_no": "1547557",
+      "school_raw": "Reservoir High School",
+      "position": "Junior School Leader - Leading Teacher",
+      "classification": "LEAD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1547563": {
+      "job_no": "1547563",
+      "school_raw": "Mindalk Primary School",
+      "position": "Facilities/Maintenance Manager",
+      "classification": "ES1-3",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1547583": {
+      "job_no": "1547583",
+      "school_raw": "Melrose Primary School",
+      "position": "Leading Teacher - Disability Inclusion (DIP)",
+      "classification": "LEAD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1547641": {
+      "job_no": "1547641",
+      "school_raw": "Riverbend Primary School",
+      "position": "Learning Specialist - Building Teaching Excellence",
+      "classification": "LEARN",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1547660": {
+      "job_no": "1547660",
+      "school_raw": "Albion Primary School",
+      "position": "Business Manager",
+      "classification": "ES1-4",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1547673": {
+      "job_no": "1547673",
+      "school_raw": "Ocean Grove Primary School",
+      "position": "Integration Teacher Aide",
+      "classification": "ES1-2",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1547674": {
+      "job_no": "1547674",
+      "school_raw": "Ocean Grove Primary School",
+      "position": "Integration Teacher Aide",
+      "classification": "ES1-2",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1547678": {
+      "job_no": "1547678",
+      "school_raw": "Edenbrook Secondary College",
+      "position": "2027 Classroom Teacher - English 7-12 1.0 EFT Ongoing",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1547680": {
+      "job_no": "1547680",
+      "school_raw": "Edenbrook Secondary College",
+      "position": "2027 Classroom Teacher - English/Humanities 1.0 EFT Ongoing",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1547682": {
+      "job_no": "1547682",
+      "school_raw": "Edenbrook Secondary College",
+      "position": "2027 Classroom Teacher - English/Humanities 1.0 EFT Ongoing",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1547692": {
+      "job_no": "1547692",
+      "school_raw": "Edenbrook Secondary College",
+      "position": "2027 Learning Specialist - VCE VM and Applied Learning",
+      "classification": "LEARN",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1547701": {
+      "job_no": "1547701",
+      "school_raw": "Edenbrook Secondary College",
+      "position": "2027 Learning Specialist - VCE Art and Technology",
+      "classification": "LEARN",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1547748": {
+      "job_no": "1547748",
+      "school_raw": "Frankston High School",
+      "position": "CLASSROOM TEACHER - VCE ART",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1547756": {
+      "job_no": "1547756",
+      "school_raw": "Edgars Creek Primary School",
+      "position": "Graduate Teacher Program",
+      "classification": "GRD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1547757": {
+      "job_no": "1547757",
+      "school_raw": "Edgars Creek Primary School",
+      "position": "Graduate Teacher Program",
+      "classification": "GRD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1547771": {
+      "job_no": "1547771",
+      "school_raw": "Red Cliffs Secondary College",
+      "position": "Mental Health and Wellbeing Officer",
+      "classification": "ES1-4",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1547785": {
+      "job_no": "1547785",
+      "school_raw": "Edenbrook Secondary College",
+      "position": "2027 Classroom Teacher - Mathematics 7-12 1.0 EFT Ongoing",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1547788": {
+      "job_no": "1547788",
+      "school_raw": "Baden Powell P-9 College",
+      "position": "2027 Start Primary Classroom Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1547789": {
+      "job_no": "1547789",
+      "school_raw": "Banyan Fields Primary School",
+      "position": "Ed Support Level 1-Range 2 (First Aid)",
+      "classification": "ES1-2",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1547826": {
+      "job_no": "1547826",
+      "school_raw": "Springside West Sec. College",
+      "position": "2027 Classroom Teacher - English",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1547831": {
+      "job_no": "1547831",
+      "school_raw": "Sunshine Special Development S",
+      "position": "2027 start Assistant Principal - Teaching and Learning Range 2",
+      "classification": "AP-2",
+      "role_group": "leadership",
+      "first_seen": "2026-11-23"
+    },
+    "1547848": {
+      "job_no": "1547848",
+      "school_raw": "Mildura Primary School",
+      "position": "Learning Specialist - Pedagogy (TFI 094)",
+      "classification": "LEARN",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1547945": {
+      "job_no": "1547945",
+      "school_raw": "Kolorer College",
+      "position": "New School Learning Support Officer - 2027 start",
+      "classification": "ES1-2",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1547948": {
+      "job_no": "1547948",
+      "school_raw": "Sandringham College",
+      "position": "Classroom Teacher - Drama/Theatre Studies",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1547954": {
+      "job_no": "1547954",
+      "school_raw": "Derrinallum P12 College",
+      "position": "Classroom Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1547960": {
+      "job_no": "1547960",
+      "school_raw": "Viewbank College",
+      "position": "ES1-5 Wellbeing Team Leader Full Time Ongoing",
+      "classification": "ES1-5",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1547964": {
+      "job_no": "1547964",
+      "school_raw": "Kolorer College",
+      "position": "New School Learning Support Officer - 2027 start",
+      "classification": "ES1-2",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1547973": {
+      "job_no": "1547973",
+      "school_raw": "Lilydale Heights College",
+      "position": "Disability Inclusion Coordinator: ES Level 1-Range 3",
+      "classification": "ES1-3",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1548003": {
+      "job_no": "1548003",
+      "school_raw": "Mossgiel Park Primary School",
+      "position": "Integration Aide",
+      "classification": "ES1-2",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1548022": {
+      "job_no": "1548022",
+      "school_raw": "Ngarri Primary School",
+      "position": "2027 Classroom Teacher Located in Manor Lakes",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1548098": {
+      "job_no": "1548098",
+      "school_raw": "Balmoral K-12 College",
+      "position": "Assistant Principal-Range 1",
+      "classification": "AP-1",
+      "role_group": "leadership",
+      "first_seen": "2026-11-23"
+    },
+    "1548142": {
+      "job_no": "1548142",
+      "school_raw": "Parkville College",
+      "position": "Classroom Teacher Physical Education - Parkville",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1548144": {
+      "job_no": "1548144",
+      "school_raw": "Niddrie Autistic School",
+      "position": "Teacher Support 0.97 5 days/week - Niddrie and Keilor East Campuses 2027 School Year only",
+      "classification": "ES1-2",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1548155": {
+      "job_no": "1548155",
+      "school_raw": "Parkville College",
+      "position": "Classroom Teacher VCE VM - Parkville",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1548156": {
+      "job_no": "1548156",
+      "school_raw": "Mount Clear Primary School",
+      "position": "Learning Specialist - Instructional Practices",
+      "classification": "LEARN",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1548159": {
+      "job_no": "1548159",
+      "school_raw": "Parkville College",
+      "position": "Classroom Teacher Literacy - Parkville",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1548169": {
+      "job_no": "1548169",
+      "school_raw": "Sth Melbourne Park Primary Sch",
+      "position": "Classroom Teacher - On-going",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1548191": {
+      "job_no": "1548191",
+      "school_raw": "Aitken Hill Primary School",
+      "position": "Classroom Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1548212": {
+      "job_no": "1548212",
+      "school_raw": "Sunbury Primary School",
+      "position": "Learning Specialist - Curriculum Teaching and Learning",
+      "classification": "LEARN",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1548227": {
+      "job_no": "1548227",
+      "school_raw": "Sunbury Primary School",
+      "position": "Classroom Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1548228": {
+      "job_no": "1548228",
+      "school_raw": "Sunbury Primary School",
+      "position": "Classroom Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1548248": {
+      "job_no": "1548248",
+      "school_raw": "Hampton Park Secondary College",
+      "position": "Administration Support - Attendance Officer / Assistant Principal PA",
+      "classification": "ES1-3",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1548251": {
+      "job_no": "1548251",
+      "school_raw": "Red Cliffs Primary School",
+      "position": "Education Support Staff",
+      "classification": "ES1-2",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1548302": {
+      "job_no": "1548302",
+      "school_raw": "Altona College",
+      "position": "2027 Secondary VCE Classroom Teacher - Maths and Biology",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1548313": {
+      "job_no": "1548313",
+      "school_raw": "Barramayil Primary School",
+      "position": "Administration Officer - Enrolments, Finance & Community Engagement (NEW SCHOOL OPENING 2027 IN AINTREE)",
+      "classification": "ES1-3",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1548329": {
+      "job_no": "1548329",
+      "school_raw": "Barton Primary School",
+      "position": "Graduate Teacher Program",
+      "classification": "GRD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1548371": {
+      "job_no": "1548371",
+      "school_raw": "Barramayil Primary School",
+      "position": "Facilities, Grounds, Student support Officer (NEW SCHOOL OPENING IN 2027 IN AINTREE)",
+      "classification": "ES1-3",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1548449": {
+      "job_no": "1548449",
+      "school_raw": "Binap Primary School",
+      "position": "Classroom Teacher-Graduate",
+      "classification": "GRD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1548450": {
+      "job_no": "1548450",
+      "school_raw": "Binap Primary School",
+      "position": "Classroom Teacher-Graduate",
+      "classification": "GRD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1548461": {
+      "job_no": "1548461",
+      "school_raw": "Blackburn English Language Sch",
+      "position": "EAL Classroom Teacher (Wodonga)",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1548462": {
+      "job_no": "1548462",
+      "school_raw": "Tarneit Rise Primary School",
+      "position": "Learning Specialist: Instructional Leader - Teaching and Learning (TAL)",
+      "classification": "LEARN",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1548469": {
+      "job_no": "1548469",
+      "school_raw": "Craigieburn Secondary College",
+      "position": "Numeracy Leading Teacher",
+      "classification": "LEAD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1548471": {
+      "job_no": "1548471",
+      "school_raw": "Brinbeal Secondary College",
+      "position": "English Teacher (Ongoing) - 2027 - new opportunity with a growing school",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1548475": {
+      "job_no": "1548475",
+      "school_raw": "Kuyim Primary School",
+      "position": "Classroom Teacher for 2027",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1548476": {
+      "job_no": "1548476",
+      "school_raw": "Apollo Parkways Primary School",
+      "position": "Learning Specialist Teaching and Learning 2027-2029",
+      "classification": "LEARN",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1548477": {
+      "job_no": "1548477",
+      "school_raw": "Brinbeal Secondary College",
+      "position": "English Teacher (Ongoing) - 2027 - new opportunity with a growing school",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1548479": {
+      "job_no": "1548479",
+      "school_raw": "Tarneit Rise Primary School",
+      "position": "Learning Specialist: Instructional Leader - Wellbeing and Inclusion (W&I)",
+      "classification": "LEARN",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1548501": {
+      "job_no": "1548501",
+      "school_raw": "Crusoe 7-10 Secondary College",
+      "position": "Classroom Teacher - Auslan/Generalist",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1548514": {
+      "job_no": "1548514",
+      "school_raw": "Apollo Parkways Primary School",
+      "position": "Learning Specialist Teaching and Learning 2027-2029",
+      "classification": "LEARN",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1548656": {
+      "job_no": "1548656",
+      "school_raw": "Albanvale Primary School",
+      "position": "Learning Specialist - Instructional Coach",
+      "classification": "LEARN",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1548659": {
+      "job_no": "1548659",
+      "school_raw": "California Gully Primary Schl",
+      "position": "Graduate Teacher Program",
+      "classification": "GRD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1548663": {
+      "job_no": "1548663",
+      "school_raw": "Allansford & District Primary",
+      "position": "Graduate Teacher Program",
+      "classification": "GRD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1548672": {
+      "job_no": "1548672",
+      "school_raw": "Homestead Seniors Sec College",
+      "position": "Student Wellbeing Leader",
+      "classification": "ES1-4",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1548677": {
+      "job_no": "1548677",
+      "school_raw": "Warrnambool College",
+      "position": "ES1-3 Senior Sub School Assistant, Careers & VASS Relief",
+      "classification": "ES1-3",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1548680": {
+      "job_no": "1548680",
+      "school_raw": "Bacchus Marsh Primary School",
+      "position": "Classroom Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1548681": {
+      "job_no": "1548681",
+      "school_raw": "Bacchus Marsh Primary School",
+      "position": "Classroom Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1548693": {
+      "job_no": "1548693",
+      "school_raw": "Canterbury Girls Sec. College",
+      "position": "English Teacher Years 7-12",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1548694": {
+      "job_no": "1548694",
+      "school_raw": "Canterbury Girls Sec. College",
+      "position": "Food Tech & Health Teacher Years 7-12",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1548701": {
+      "job_no": "1548701",
+      "school_raw": "Barramayil Primary School",
+      "position": "Integration Teacher Aide",
+      "classification": "ES1-2",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1548702": {
+      "job_no": "1548702",
+      "school_raw": "Barramayil Primary School",
+      "position": "Integration Teacher Aide",
+      "classification": "ES1-2",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1548707": {
+      "job_no": "1548707",
+      "school_raw": "Barramayil Primary School",
+      "position": "Upper Primary Teacher **NEW SCHOOL IN AINTREE - opening 2027**",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1548708": {
+      "job_no": "1548708",
+      "school_raw": "Barramayil Primary School",
+      "position": "Classroom Teacher **NEW SCHOOL IN AINTREE - opening 2027**",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1548709": {
+      "job_no": "1548709",
+      "school_raw": "Barramayil Primary School",
+      "position": "STEM Teacher **NEW SCHOOL IN AINTREE - opening 2027**",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1548716": {
+      "job_no": "1548716",
+      "school_raw": "Portland North Primary School",
+      "position": "Physical Education Teacher",
+      "classification": "CLASS2",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1548718": {
+      "job_no": "1548718",
+      "school_raw": "Fitzroy North Primary School",
+      "position": "Leading Teacher - Disability Inclusion/MHIPS",
+      "classification": "LEAD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1548726": {
+      "job_no": "1548726",
+      "school_raw": "Lucknow Primary School",
+      "position": "Teacher Aide Ongoing",
+      "classification": "ES1-2",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1548727": {
+      "job_no": "1548727",
+      "school_raw": "Lucknow Primary School",
+      "position": "Teacher Aide Ongoing",
+      "classification": "ES1-2",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1548728": {
+      "job_no": "1548728",
+      "school_raw": "Lucknow Primary School",
+      "position": "Teacher Aide Ongoing",
+      "classification": "ES1-2",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1548729": {
+      "job_no": "1548729",
+      "school_raw": "Lucknow Primary School",
+      "position": "Teacher Aide Ongoing",
+      "classification": "ES1-2",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1548730": {
+      "job_no": "1548730",
+      "school_raw": "Lucknow Primary School",
+      "position": "Teacher Aide Ongoing",
+      "classification": "ES1-2",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1548756": {
+      "job_no": "1548756",
+      "school_raw": "Nelson Park School",
+      "position": "Leading Teacher - Teaching & Learning Senior Secondary",
+      "classification": "LEAD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1548770": {
+      "job_no": "1548770",
+      "school_raw": "Clyde Secondary College",
+      "position": "Learning Specialist Range 3 - Sub-School Year 11 VCE/VM",
+      "classification": "LEARN",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1548787": {
+      "job_no": "1548787",
+      "school_raw": "North Melbourne Primary School",
+      "position": "Assistant Principal-Range 1",
+      "classification": "AP-1",
+      "role_group": "leadership",
+      "first_seen": "2026-11-23"
+    },
+    "1548798": {
+      "job_no": "1548798",
+      "school_raw": "Sydenham Primary School",
+      "position": "Classroom Teacher 0.6",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1548803": {
+      "job_no": "1548803",
+      "school_raw": "Grayling Primary School",
+      "position": "Learning Specialist 3- Social Emotional, Mental Health & Student Voice 3days/2days classroom General",
+      "classification": "LEARN",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1548820": {
+      "job_no": "1548820",
+      "school_raw": "Brinbeal Secondary College",
+      "position": "2027 Leading Teacher - Year Level Leader",
+      "classification": "LEAD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1548848": {
+      "job_no": "1548848",
+      "school_raw": "Lara Secondary College",
+      "position": "2027 Classroom Teacher - VCE English",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1548880": {
+      "job_no": "1548880",
+      "school_raw": "Keysborough Secondary College",
+      "position": "Learning Specialist: Arts Domain Leader - Range 3",
+      "classification": "LEARN",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1548884": {
+      "job_no": "1548884",
+      "school_raw": "Hampton Park Secondary College",
+      "position": "Classroom Teacher - HPE (Years 7 - 10)",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1548885": {
+      "job_no": "1548885",
+      "school_raw": "Canterbury Girls Sec. College",
+      "position": "Assistant Principal-Range 3",
+      "classification": "AP-3",
+      "role_group": "leadership",
+      "first_seen": "2026-11-23"
+    },
+    "1548891": {
+      "job_no": "1548891",
+      "school_raw": "Keysborough Secondary College",
+      "position": "VCE-VM Teacher *Ongoing*",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1548901": {
+      "job_no": "1548901",
+      "school_raw": "Carrum Downs Secondary College",
+      "position": "English Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1548920": {
+      "job_no": "1548920",
+      "school_raw": "Cardinia Primary School",
+      "position": "Principal-Range 3",
+      "classification": "PR-3",
+      "role_group": "leadership",
+      "first_seen": "2026-11-23"
+    },
+    "1548933": {
+      "job_no": "1548933",
+      "school_raw": "Karwan Primary School",
+      "position": "2027 Ongoing Teacher Position at Karwan Primary School",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1548976": {
+      "job_no": "1548976",
+      "school_raw": "Goonawarra Primary School",
+      "position": "Classroom Teacher - 2027",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1548980": {
+      "job_no": "1548980",
+      "school_raw": "Goonawarra Primary School",
+      "position": "Classroom Teacher - 2027",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1549009": {
+      "job_no": "1549009",
+      "school_raw": "Sunshine College",
+      "position": "Leading Teacher Literacy (SunLit)",
+      "classification": "LEAD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1549021": {
+      "job_no": "1549021",
+      "school_raw": "Warrnambool East Primary Schoo",
+      "position": "Classroom Teacher 0.6",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1549038": {
+      "job_no": "1549038",
+      "school_raw": "Bayside P-12 College",
+      "position": "Student Wellbeing Coordinator",
+      "classification": "ES1-3",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1549090": {
+      "job_no": "1549090",
+      "school_raw": "Gladstone Views Primary School",
+      "position": "Classroom Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1549110": {
+      "job_no": "1549110",
+      "school_raw": "Niddrie Primary School",
+      "position": "Leading Teacher Range 3 - Disability, Inclusion and Wellbeing",
+      "classification": "LEAD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1549115": {
+      "job_no": "1549115",
+      "school_raw": "Thomastown Secondary College",
+      "position": "Vocational Major/VET",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1549135": {
+      "job_no": "1549135",
+      "school_raw": "Wyndham Vale Primary School",
+      "position": "Generalist Classroom Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1549136": {
+      "job_no": "1549136",
+      "school_raw": "Wyndham Vale Primary School",
+      "position": "Generalist Classroom Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1549137": {
+      "job_no": "1549137",
+      "school_raw": "Wyndham Vale Primary School",
+      "position": "Generalist Classroom Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1549147": {
+      "job_no": "1549147",
+      "school_raw": "Thomastown Secondary College",
+      "position": "Food Technology Technician",
+      "classification": "ES1-2",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1549151": {
+      "job_no": "1549151",
+      "school_raw": "Canadian Lead Primary School",
+      "position": "Teacher Grad Recruit Program",
+      "classification": "GRD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1549177": {
+      "job_no": "1549177",
+      "school_raw": "Blackburn High School",
+      "position": "Leading Teacher Range 3 - Acting Leading Teacher-Innovation Leader (STEM, Science and Technology)",
+      "classification": "LEAD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1549191": {
+      "job_no": "1549191",
+      "school_raw": "Elevation Secondary College",
+      "position": "2027 - Classroom Teacher - Food Technology",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1549192": {
+      "job_no": "1549192",
+      "school_raw": "Elevation Secondary College",
+      "position": "2027 - Classroom Teacher - Physical Education",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1549201": {
+      "job_no": "1549201",
+      "school_raw": "Dharra School",
+      "position": "Assistant Principal-Range 1",
+      "classification": "AP-1",
+      "role_group": "leadership",
+      "first_seen": "2026-11-23"
+    },
+    "1549251": {
+      "job_no": "1549251",
+      "school_raw": "Laa Yulta Primary School",
+      "position": "Classroom Teacher - Commencing 2027",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1549261": {
+      "job_no": "1549261",
+      "school_raw": "Homestead Seniors Sec College",
+      "position": "Maintenance Officer",
+      "classification": "ES1-3",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1549283": {
+      "job_no": "1549283",
+      "school_raw": "Whittlesea Secondary College",
+      "position": "Classroom Teacher - Maths",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1549284": {
+      "job_no": "1549284",
+      "school_raw": "Whittlesea Secondary College",
+      "position": "Classroom Teacher - English & Humanities",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1549334": {
+      "job_no": "1549334",
+      "school_raw": "Keelonith Primary School",
+      "position": "2027 ONGOING Classroom Teacher - SoL School. GRADUATES encouraged to apply!",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1549357": {
+      "job_no": "1549357",
+      "school_raw": "Willmott Park Primary School",
+      "position": "Classroom Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1549365": {
+      "job_no": "1549365",
+      "school_raw": "Willmott Park Primary School",
+      "position": "Classroom Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1549366": {
+      "job_no": "1549366",
+      "school_raw": "Mossgiel Park Primary School",
+      "position": "Classroom Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1549367": {
+      "job_no": "1549367",
+      "school_raw": "Thomastown East Primary School",
+      "position": "Classroom Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1549369": {
+      "job_no": "1549369",
+      "school_raw": "Willmott Park Primary School",
+      "position": "Graduate Teacher Program",
+      "classification": "GRD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1549370": {
+      "job_no": "1549370",
+      "school_raw": "Willmott Park Primary School",
+      "position": "Graduate Teacher Program",
+      "classification": "GRD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1549413": {
+      "job_no": "1549413",
+      "school_raw": "Melbourne Girls College",
+      "position": "Years 7-12 Mathematics Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1549438": {
+      "job_no": "1549438",
+      "school_raw": "Lloyd Street Primary School",
+      "position": "Receptionist - General Administration",
+      "classification": "ES1-2",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1549460": {
+      "job_no": "1549460",
+      "school_raw": "Pascoe Vale Girls Sec College",
+      "position": "Japanese Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1549466": {
+      "job_no": "1549466",
+      "school_raw": "Wattle Glen Primary School",
+      "position": "PE Teacher - Primary Years",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1549490": {
+      "job_no": "1549490",
+      "school_raw": "Centre for Higher Ed Studies",
+      "position": "VCE Algorithmics & Specialist Maths Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1549503": {
+      "job_no": "1549503",
+      "school_raw": "Mickleham Secondary College",
+      "position": "Leading Teacher - Applied Learning Domain Leader **Immediate Start**",
+      "classification": "LEAD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1549511": {
+      "job_no": "1549511",
+      "school_raw": "Virtual School Victoria",
+      "position": "Victorian High-Ability Program - Learning Specialist Range 3",
+      "classification": "LEARN",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1549534": {
+      "job_no": "1549534",
+      "school_raw": "Blackburn Primary School",
+      "position": "Ed Support Level 1-Range 2 Integration Aide",
+      "classification": "ES1-2",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1549535": {
+      "job_no": "1549535",
+      "school_raw": "Blackburn Primary School",
+      "position": "Ed Support Level 1-Range 2 Integration Aide",
+      "classification": "ES1-2",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1549536": {
+      "job_no": "1549536",
+      "school_raw": "Mill Park Primary School",
+      "position": "Assistant Principal- Facilities Range 1",
+      "classification": "AP-1",
+      "role_group": "leadership",
+      "first_seen": "2026-11-23"
+    },
+    "1549544": {
+      "job_no": "1549544",
+      "school_raw": "Buckley Park College",
+      "position": "2027 Food Studies Classroom Teacher - Ongoing",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1549565": {
+      "job_no": "1549565",
+      "school_raw": "Dandenong West Primary School",
+      "position": "Graduate Teacher Position - Year 1",
+      "classification": "GRD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1549594": {
+      "job_no": "1549594",
+      "school_raw": "Donnybrook Primary School",
+      "position": "2027 Classroom Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1549595": {
+      "job_no": "1549595",
+      "school_raw": "Donnybrook Primary School",
+      "position": "2027 Graduate Teacher",
+      "classification": "GRD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1549642": {
+      "job_no": "1549642",
+      "school_raw": "Bayswater Primary School",
+      "position": "Leading Teacher Tier 3 MTSS / Precision Teaching",
+      "classification": "LEAD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1549647": {
+      "job_no": "1549647",
+      "school_raw": "Werribee Secondary College",
+      "position": "Senior Art / IBDP Teacher 2027 Start",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1549676": {
+      "job_no": "1549676",
+      "school_raw": "Little River Primary School",
+      "position": "Classroom Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1549734": {
+      "job_no": "1549734",
+      "school_raw": "Brinbeal Secondary College",
+      "position": "Food Studies Teacher (Ongoing) - 2027 - new opportunity with a growing school",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1549764": {
+      "job_no": "1549764",
+      "school_raw": "Cranbourne West Sec College",
+      "position": "PE/Maths/VM",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1549768": {
+      "job_no": "1549768",
+      "school_raw": "Kuyim Primary School",
+      "position": "School Leadership",
+      "classification": "AP-1",
+      "role_group": "leadership",
+      "first_seen": "2026-11-23"
+    },
+    "1549773": {
+      "job_no": "1549773",
+      "school_raw": "Barramayil Primary School",
+      "position": "Speech Pathologist",
+      "classification": "ES1-5",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1549779": {
+      "job_no": "1549779",
+      "school_raw": "Whittlesea Secondary College",
+      "position": "Integration Aide",
+      "classification": "ES1-2",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1549781": {
+      "job_no": "1549781",
+      "school_raw": "Charles LaTrobe P-12 College",
+      "position": "Leading Teacher - Teaching and Learning",
+      "classification": "LEAD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1549796": {
+      "job_no": "1549796",
+      "school_raw": "Manor Lakes P-12 College",
+      "position": "Food Studies Secondary Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1549825": {
+      "job_no": "1549825",
+      "school_raw": "Riverwalk Primary School",
+      "position": "2027 Classroom Teacher | Riverwalk Primary School | Where Geelong Meets Melbourne",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1549885": {
+      "job_no": "1549885",
+      "school_raw": "Upwey High School",
+      "position": "Maths / Science Classroom Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1549889": {
+      "job_no": "1549889",
+      "school_raw": "Fitzroy High School",
+      "position": "Facilities and Building Management 0.60FTE",
+      "classification": "ES1-3",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1549892": {
+      "job_no": "1549892",
+      "school_raw": "Upwey High School",
+      "position": "English / Humanities Classroom Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1549893": {
+      "job_no": "1549893",
+      "school_raw": "Upwey High School",
+      "position": "English / Humanities Graduate Teacher Program",
+      "classification": "GRD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1549894": {
+      "job_no": "1549894",
+      "school_raw": "Walcom Ngarrwa Secondary Coll",
+      "position": "Experienced Humanities Teacher",
+      "classification": "CLASS2",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1549908": {
+      "job_no": "1549908",
+      "school_raw": "Upwey High School",
+      "position": "Maths / Science Classroom Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1549922": {
+      "job_no": "1549922",
+      "school_raw": "Fountain Gate Primary School",
+      "position": "Disability Inclusion and Vulnerable Cohorts",
+      "classification": "AP-1",
+      "role_group": "leadership",
+      "first_seen": "2026-11-23"
+    },
+    "1549945": {
+      "job_no": "1549945",
+      "school_raw": "Fountain Gate Primary School",
+      "position": "Wellbeing, MHiPS and School Events",
+      "classification": "AP-1",
+      "role_group": "leadership",
+      "first_seen": "2026-11-23"
+    },
+    "1549967": {
+      "job_no": "1549967",
+      "school_raw": "Healesville High School",
+      "position": "Classroom Teacher - Science & HPE",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1550023": {
+      "job_no": "1550023",
+      "school_raw": "Templestowe College",
+      "position": "Classroom and Instrumental Music Teacher - FTE 1.0 (optional 0.8)",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1550137": {
+      "job_no": "1550137",
+      "school_raw": "Copperfield College",
+      "position": "Learning Specialist 3 - Numeracy",
+      "classification": "LEARN",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1550309": {
+      "job_no": "1550309",
+      "school_raw": "Wyndham Park Primary School",
+      "position": "Generalist Classroom Teacher - Ongoing",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1550362": {
+      "job_no": "1550362",
+      "school_raw": "Casterton Secondary College",
+      "position": "Health and Physical Education Years 7-12, Humanities 7-12, VM",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1550423": {
+      "job_no": "1550423",
+      "school_raw": "Walcom Ngarrwa Secondary Coll",
+      "position": "Music and one other subject - 2027 start",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1550436": {
+      "job_no": "1550436",
+      "school_raw": "Cranbourne West Sec College",
+      "position": "Curriculum Systems and Digital Assessment Coordinator",
+      "classification": "ES1-3",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1550455": {
+      "job_no": "1550455",
+      "school_raw": "Riddells Creek Primary School",
+      "position": "Graduate Teacher Program - Ongoing",
+      "classification": "GRD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1550573": {
+      "job_no": "1550573",
+      "school_raw": "Whittlesea Secondary College",
+      "position": "Classroom Teacher - Italian & Psychology",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1550600": {
+      "job_no": "1550600",
+      "school_raw": "Topirum Primary School",
+      "position": "Integration Aide",
+      "classification": "ES1-2",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1550671": {
+      "job_no": "1550671",
+      "school_raw": "Marra School",
+      "position": "Speech Pathologist",
+      "classification": "ES1-4",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1550818": {
+      "job_no": "1550818",
+      "school_raw": "Burwood Heights Primary School",
+      "position": "Classroom Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1550827": {
+      "job_no": "1550827",
+      "school_raw": "Upwey High School",
+      "position": "Maths / Science Classroom Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1550832": {
+      "job_no": "1550832",
+      "school_raw": "Sunshine College",
+      "position": "Leading Teacher - Mathematics",
+      "classification": "LEAD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1550845": {
+      "job_no": "1550845",
+      "school_raw": "Truganina P-9 College",
+      "position": "Primary Classroom Teacher (Graduates welcome to apply)",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1550869": {
+      "job_no": "1550869",
+      "school_raw": "Truganina P-9 College",
+      "position": "Primary Classroom Teacher (Graduates welcome to apply)",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1550872": {
+      "job_no": "1550872",
+      "school_raw": "Truganina P-9 College",
+      "position": "Primary Classroom Teacher (All levels of experience welcomed)",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1550873": {
+      "job_no": "1550873",
+      "school_raw": "Truganina P-9 College",
+      "position": "Primary Classroom Teacher (All levels of experience welcomed)",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1550874": {
+      "job_no": "1550874",
+      "school_raw": "Truganina P-9 College",
+      "position": "Primary Classroom Teacher (All levels of experience welcomed)",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1550875": {
+      "job_no": "1550875",
+      "school_raw": "Truganina P-9 College",
+      "position": "Primary Classroom Teacher (All levels of experience welcomed)",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1550936": {
+      "job_no": "1550936",
+      "school_raw": "Manorvale Primary School",
+      "position": "Classroom Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1550946": {
+      "job_no": "1550946",
+      "school_raw": "Manorvale Primary School",
+      "position": "Classroom Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1550963": {
+      "job_no": "1550963",
+      "school_raw": "Bundoora Secondary College",
+      "position": "Graduate English Classroom Teacher",
+      "classification": "GRD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1550992": {
+      "job_no": "1550992",
+      "school_raw": "Point Cook P-9 College",
+      "position": "7-9 Wellbeing/Maths Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1551000": {
+      "job_no": "1551000",
+      "school_raw": "Point Cook P-9 College",
+      "position": "5-9 Performing Arts Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1551019": {
+      "job_no": "1551019",
+      "school_raw": "Beveridge Primary School",
+      "position": "2027 Classroom Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1551040": {
+      "job_no": "1551040",
+      "school_raw": "Officer Specialist School",
+      "position": "Graduate Teacher Program 2027",
+      "classification": "GRD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1551043": {
+      "job_no": "1551043",
+      "school_raw": "Officer Specialist School",
+      "position": "Classroom Teacher 2027",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1551065": {
+      "job_no": "1551065",
+      "school_raw": "Dinjerra Primary School",
+      "position": "Classroom Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1551086": {
+      "job_no": "1551086",
+      "school_raw": "Casey Fields Primary School",
+      "position": "Classroom Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1551321": {
+      "job_no": "1551321",
+      "school_raw": "Mossgiel Park Primary School",
+      "position": "Integration Aide",
+      "classification": "ES1-2",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1551672": {
+      "job_no": "1551672",
+      "school_raw": "Beeac Primary School",
+      "position": "Integration Teacher Aide",
+      "classification": "ES1-2",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1551833": {
+      "job_no": "1551833",
+      "school_raw": "Monmia Primary School",
+      "position": "Classroom Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1551860": {
+      "job_no": "1551860",
+      "school_raw": "Bendigo Senior Secondary Colle",
+      "position": "Classroom Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1551862": {
+      "job_no": "1551862",
+      "school_raw": "Bendigo Senior Secondary Colle",
+      "position": "Classroom Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1552003": {
+      "job_no": "1552003",
+      "school_raw": "Cranbourne South Primary Sch",
+      "position": "Graduate Teacher - Primary Classrom Teacher",
+      "classification": "GRD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1552065": {
+      "job_no": "1552065",
+      "school_raw": "Jennings Street School",
+      "position": "Classroom Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1552106": {
+      "job_no": "1552106",
+      "school_raw": "Cranbourne Park Primary School",
+      "position": "Ongoing Classroom Teacher 2027",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1552171": {
+      "job_no": "1552171",
+      "school_raw": "Koo-Wee-Rup Secondary College",
+      "position": "Classroom Teacher - PE / Humanities",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1552472": {
+      "job_no": "1552472",
+      "school_raw": "Carrum Downs Secondary College",
+      "position": "English Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1552502": {
+      "job_no": "1552502",
+      "school_raw": "Beechworth Secondary College",
+      "position": "Chemistry and Physics Classroom Teacher - Full Time - 2027 Start - Graduate Teacher Program",
+      "classification": "GRD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1552531": {
+      "job_no": "1552531",
+      "school_raw": "Nathalia Secondary College",
+      "position": "Voc Educ & Training (VET) Salon Assistant Cert II",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1552560": {
+      "job_no": "1552560",
+      "school_raw": "Officer Secondary College",
+      "position": "Classroom Teacher - Maths / VCE Maths",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1552582": {
+      "job_no": "1552582",
+      "school_raw": "Banyule Primary School",
+      "position": "Graduate Teacher Program",
+      "classification": "GRD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1552778": {
+      "job_no": "1552778",
+      "school_raw": "Apollo Bay P-12 College",
+      "position": "Classroom and Student Support - Other",
+      "classification": "ES1-2",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1552928": {
+      "job_no": "1552928",
+      "school_raw": "Le Page Primary School",
+      "position": "Facilities Support",
+      "classification": "ES1-2",
+      "role_group": "education_support",
+      "first_seen": "2026-11-23"
+    },
+    "1552977": {
+      "job_no": "1552977",
+      "school_raw": "Somerville Secondary College",
+      "position": "VCE Psychology/Science/ VCE VM Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1553261": {
+      "job_no": "1553261",
+      "school_raw": "Riverwalk Primary School",
+      "position": "Classroom Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1553264": {
+      "job_no": "1553264",
+      "school_raw": "Riverwalk Primary School",
+      "position": "Classroom Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1553265": {
+      "job_no": "1553265",
+      "school_raw": "Riverwalk Primary School",
+      "position": "Classroom Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1553473": {
+      "job_no": "1553473",
+      "school_raw": "Keelonith Primary School",
+      "position": "2027 ONGOING Classroom Teacher - SoL School",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1553487": {
+      "job_no": "1553487",
+      "school_raw": "Suzanne Cory High School",
+      "position": "Psychology and Health and Physical Education Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    },
+    "1553542": {
+      "job_no": "1553542",
+      "school_raw": "Binap Primary School",
+      "position": "Whole School Curriculum",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-23"
+    }
+  }
+}

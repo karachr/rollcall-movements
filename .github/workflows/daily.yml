@@ -1,0 +1,39 @@
+name: Daily capture
+
+on:
+  schedule:
+    - cron: '30 19 * * *'   # 19:30 UTC = about 6:30am Melbourne
+  workflow_dispatch:         # lets you run it by hand from the Actions tab
+
+permissions:
+  contents: write            # needed to commit the updated data
+
+concurrency:
+  group: daily-capture
+  cancel-in-progress: false
+
+jobs:
+  capture:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm install --no-audit --no-fund
+      - run: npx playwright-core install --with-deps chromium
+      - name: Scrape the public list
+        run: node scraper/scrape.mjs snapshot.json
+      - name: Merge into history
+        run: node scraper/ingest.mjs snapshot.json data/appointments.json
+      - name: Match school names
+        run: node scraper/match.mjs data/appointments.json data/schools-index.json matches.json
+      - name: Build the public feed
+        run: node scraper/build-feed.mjs data/appointments.json matches.json docs
+      - name: Commit changes
+        run: |
+          git config user.name "rollcall-bot"
+          git config user.email "rollcall-bot@users.noreply.github.com"
+          git add data/appointments.json docs
+          if git diff --cached --quiet; then echo "No changes today"; else git commit -m "Daily capture $(date -u +%F)" && git push; fi

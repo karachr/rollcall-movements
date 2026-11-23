@@ -1,0 +1,7 @@
+{
+  "name": "rollcall-movements",
+  "private": true,
+  "type": "module",
+  "description": "Daily capture of the Victorian Department of Education provisional appointments list, de-identified, as per-school JSON for Rollcall.",
+  "dependencies": { "playwright-core": "^1.50.0" }
+}
