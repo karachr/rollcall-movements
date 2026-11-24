@@ -24,6 +24,14 @@
       "role_group": "teaching",
       "first_seen": "2026-11-23"
     },
+    "1538926": {
+      "job_no": "1538926",
+      "school_raw": "Parkville College",
+      "position": "Classroom Teacher VET Art - Cherry Creek",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-24"
+    },
     "1539375": {
       "job_no": "1539375",
       "school_raw": "Walcom Ngarrwa Secondary Coll",
@@ -360,6 +368,14 @@
       "role_group": "teaching",
       "first_seen": "2026-11-23"
     },
+    "1544769": {
+      "job_no": "1544769",
+      "school_raw": "Aurora School",
+      "position": "Team Leader",
+      "classification": "LEAD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-24"
+    },
     "1545058": {
       "job_no": "1545058",
       "school_raw": "Lakeview Senior College",
@@ -560,6 +576,14 @@
       "role_group": "teaching",
       "first_seen": "2026-11-23"
     },
+    "1546933": {
+      "job_no": "1546933",
+      "school_raw": "Dallas Brooks Community PS",
+      "position": "Assistant Principal Range 2 - Educational Leadership, Facilities, Infrastructure & OHS",
+      "classification": "AP-2",
+      "role_group": "leadership",
+      "first_seen": "2026-11-24"
+    },
     "1546939": {
       "job_no": "1546939",
       "school_raw": "Hallam Secondary College",
@@ -567,6 +591,14 @@
       "classification": "CLASS",
       "role_group": "teaching",
       "first_seen": "2026-11-23"
+    },
+    "1546943": {
+      "job_no": "1546943",
+      "school_raw": "Dallas Brooks Community PS",
+      "position": "Assistant Principal Range 2 - Educational Leadership Disability Inclusion",
+      "classification": "AP-2",
+      "role_group": "leadership",
+      "first_seen": "2026-11-24"
     },
     "1546945": {
       "job_no": "1546945",
@@ -712,6 +744,14 @@
       "role_group": "teaching",
       "first_seen": "2026-11-23"
     },
+    "1547247": {
+      "job_no": "1547247",
+      "school_raw": "Birralee Primary School",
+      "position": "Principal-Range 4",
+      "classification": "PR-4",
+      "role_group": "leadership",
+      "first_seen": "2026-11-24"
+    },
     "1547322": {
       "job_no": "1547322",
       "school_raw": "Bannockburn P-12 College",
@@ -823,6 +863,14 @@
       "classification": "ES1-4",
       "role_group": "education_support",
       "first_seen": "2026-11-23"
+    },
+    "1547664": {
+      "job_no": "1547664",
+      "school_raw": "Coburg High School",
+      "position": "English Classroom Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-24"
     },
     "1547673": {
       "job_no": "1547673",
@@ -1688,6 +1736,14 @@
       "role_group": "education_support",
       "first_seen": "2026-11-23"
     },
+    "1549265": {
+      "job_no": "1549265",
+      "school_raw": "Neerim South Primary School",
+      "position": "Learning Specialist 3",
+      "classification": "LEARN",
+      "role_group": "teaching",
+      "first_seen": "2026-11-24"
+    },
     "1549283": {
       "job_no": "1549283",
       "school_raw": "Whittlesea Secondary College",
@@ -1703,6 +1759,14 @@
       "classification": "CLASS",
       "role_group": "teaching",
       "first_seen": "2026-11-23"
+    },
+    "1549310": {
+      "job_no": "1549310",
+      "school_raw": "Vermont Secondary College",
+      "position": "Literacy Intervention",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-24"
     },
     "1549334": {
       "job_no": "1549334",
@@ -2032,6 +2096,14 @@
       "role_group": "teaching",
       "first_seen": "2026-11-23"
     },
+    "1549999": {
+      "job_no": "1549999",
+      "school_raw": "Nearnung Primary School",
+      "position": "Leading Teacher - Curriculum - Teaching and Learning",
+      "classification": "LEAD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-24"
+    },
     "1550023": {
       "job_no": "1550023",
       "school_raw": "Templestowe College",
@@ -2040,6 +2112,22 @@
       "role_group": "teaching",
       "first_seen": "2026-11-23"
     },
+    "1550061": {
+      "job_no": "1550061",
+      "school_raw": "Endeavour Hills Specialist Sc",
+      "position": "Classroom Teacher - New Classroom for 2027",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-24"
+    },
+    "1550081": {
+      "job_no": "1550081",
+      "school_raw": "Endeavour Hills Specialist Sc",
+      "position": "Classroom Teacher - New Classroom for 2027",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-24"
+    },
     "1550137": {
       "job_no": "1550137",
       "school_raw": "Copperfield College",
@@ -2047,6 +2135,14 @@
       "classification": "LEARN",
       "role_group": "teaching",
       "first_seen": "2026-11-23"
+    },
+    "1550138": {
+      "job_no": "1550138",
+      "school_raw": "Manor Lakes P-12 College",
+      "position": "VCE English Improvement Learning Specialist",
+      "classification": "LEARN",
+      "role_group": "teaching",
+      "first_seen": "2026-11-24"
     },
     "1550309": {
       "job_no": "1550309",
@@ -2096,6 +2192,14 @@
       "role_group": "teaching",
       "first_seen": "2026-11-23"
     },
+    "1550575": {
+      "job_no": "1550575",
+      "school_raw": "Quarters Primary School",
+      "position": "Classroom Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-24"
+    },
     "1550600": {
       "job_no": "1550600",
       "school_raw": "Topirum Primary School",
@@ -2104,6 +2208,14 @@
       "role_group": "education_support",
       "first_seen": "2026-11-23"
     },
+    "1550638": {
+      "job_no": "1550638",
+      "school_raw": "Armstrong Creek School",
+      "position": "Leading Teacher - Inclusion Practice Leader",
+      "classification": "LEAD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-24"
+    },
     "1550671": {
       "job_no": "1550671",
       "school_raw": "Marra School",
@@ -2111,6 +2223,22 @@
       "classification": "ES1-4",
       "role_group": "education_support",
       "first_seen": "2026-11-23"
+    },
+    "1550736": {
+      "job_no": "1550736",
+      "school_raw": "Hampton East School",
+      "position": "Assistant Principal-Range 2",
+      "classification": "AP-2",
+      "role_group": "leadership",
+      "first_seen": "2026-11-24"
+    },
+    "1550743": {
+      "job_no": "1550743",
+      "school_raw": "Hampton East School",
+      "position": "Assistant Principal-Range 2",
+      "classification": "AP-2",
+      "role_group": "leadership",
+      "first_seen": "2026-11-24"
     },
     "1550818": {
       "job_no": "1550818",
@@ -2143,6 +2271,14 @@
       "classification": "CLASS",
       "role_group": "teaching",
       "first_seen": "2026-11-23"
+    },
+    "1550857": {
+      "job_no": "1550857",
+      "school_raw": "Skye Primary School",
+      "position": "Learning Specialist Range 3 - Disability Inclusion Leader",
+      "classification": "LEARN",
+      "role_group": "teaching",
+      "first_seen": "2026-11-24"
     },
     "1550869": {
       "job_no": "1550869",
@@ -2264,6 +2400,22 @@
       "role_group": "teaching",
       "first_seen": "2026-11-23"
     },
+    "1551151": {
+      "job_no": "1551151",
+      "school_raw": "Donburn Primary School",
+      "position": "Business Manager - Ongoing Level 1-5",
+      "classification": "ES1-5",
+      "role_group": "education_support",
+      "first_seen": "2026-11-24"
+    },
+    "1551196": {
+      "job_no": "1551196",
+      "school_raw": "Dharra School",
+      "position": "Speech Pathologist",
+      "classification": "ES1-4",
+      "role_group": "education_support",
+      "first_seen": "2026-11-24"
+    },
     "1551321": {
       "job_no": "1551321",
       "school_raw": "Mossgiel Park Primary School",
@@ -2271,6 +2423,14 @@
       "classification": "ES1-2",
       "role_group": "education_support",
       "first_seen": "2026-11-23"
+    },
+    "1551406": {
+      "job_no": "1551406",
+      "school_raw": "Trafalgar Primary School",
+      "position": "Classroom Teacher Range 2",
+      "classification": "CLASS2",
+      "role_group": "teaching",
+      "first_seen": "2026-11-24"
     },
     "1551672": {
       "job_no": "1551672",
@@ -2447,6 +2607,14 @@
       "classification": "CLASS",
       "role_group": "teaching",
       "first_seen": "2026-11-23"
+    },
+    "1554006": {
+      "job_no": "1554006",
+      "school_raw": "Warrnambool Primary School",
+      "position": "Integration Aide",
+      "classification": "ES1-2",
+      "role_group": "education_support",
+      "first_seen": "2026-11-24"
     }
   }
 }
