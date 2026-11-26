@@ -24,6 +24,14 @@
       "role_group": "teaching",
       "first_seen": "2026-11-23"
     },
+    "1538490": {
+      "job_no": "1538490",
+      "school_raw": "Hamilton Parklands School",
+      "position": "Integration Teacher Aide",
+      "classification": "ES1-2",
+      "role_group": "education_support",
+      "first_seen": "2026-11-26"
+    },
     "1538926": {
       "job_no": "1538926",
       "school_raw": "Parkville College",
@@ -88,6 +96,14 @@
       "role_group": "education_support",
       "first_seen": "2026-11-23"
     },
+    "1541575": {
+      "job_no": "1541575",
+      "school_raw": "Lowanna College",
+      "position": "Classroom Teacher - Food Technology",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-26"
+    },
     "1541588": {
       "job_no": "1541588",
       "school_raw": "Parkville College",
@@ -95,6 +111,14 @@
       "classification": "CLASS",
       "role_group": "teaching",
       "first_seen": "2026-11-23"
+    },
+    "1541592": {
+      "job_no": "1541592",
+      "school_raw": "Parkville College",
+      "position": "Classroom Teacher Generalist - Malmsbury $9,000 Incentive Offer!",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-26"
     },
     "1541602": {
       "job_no": "1541602",
@@ -200,6 +224,14 @@
       "role_group": "teaching",
       "first_seen": "2026-11-23"
     },
+    "1542522": {
+      "job_no": "1542522",
+      "school_raw": "Mickleham Secondary College",
+      "position": "Classroom Teacher - Drama **2027 Start**",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-26"
+    },
     "1543001": {
       "job_no": "1543001",
       "school_raw": "Geelong High School",
@@ -287,6 +319,14 @@
       "classification": "ES1-2",
       "role_group": "education_support",
       "first_seen": "2026-11-23"
+    },
+    "1543834": {
+      "job_no": "1543834",
+      "school_raw": "Ngayuk College",
+      "position": "English and Humanities Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-26"
     },
     "1543842": {
       "job_no": "1543842",
@@ -752,6 +792,14 @@
       "role_group": "teaching",
       "first_seen": "2026-11-23"
     },
+    "1547109": {
+      "job_no": "1547109",
+      "school_raw": "Fairhills High School",
+      "position": "Principal-Range 4",
+      "classification": "PR-4",
+      "role_group": "leadership",
+      "first_seen": "2026-11-26"
+    },
     "1547110": {
       "job_no": "1547110",
       "school_raw": "Swinburne Senior Sec College",
@@ -815,6 +863,14 @@
       "classification": "GRD",
       "role_group": "teaching",
       "first_seen": "2026-11-23"
+    },
+    "1547210": {
+      "job_no": "1547210",
+      "school_raw": "Gisborne Secondary College",
+      "position": "Principal-Range 5",
+      "classification": "PR-5",
+      "role_group": "leadership",
+      "first_seen": "2026-11-26"
     },
     "1547215": {
       "job_no": "1547215",
@@ -1752,6 +1808,22 @@
       "role_group": "teaching",
       "first_seen": "2026-11-23"
     },
+    "1549017": {
+      "job_no": "1549017",
+      "school_raw": "Sunshine College",
+      "position": "Learning Specialist English",
+      "classification": "LEARN",
+      "role_group": "teaching",
+      "first_seen": "2026-11-26"
+    },
+    "1549018": {
+      "job_no": "1549018",
+      "school_raw": "Sunshine College",
+      "position": "Learning Specialist VCE Outcomes (English / EAL)",
+      "classification": "LEARN",
+      "role_group": "teaching",
+      "first_seen": "2026-11-26"
+    },
     "1549021": {
       "job_no": "1549021",
       "school_raw": "Warrnambool East Primary Schoo",
@@ -1760,6 +1832,14 @@
       "role_group": "teaching",
       "first_seen": "2026-11-23"
     },
+    "1549024": {
+      "job_no": "1549024",
+      "school_raw": "Sunshine College",
+      "position": "Learning Specialist Targeted Teaching & Learning",
+      "classification": "LEARN",
+      "role_group": "teaching",
+      "first_seen": "2026-11-26"
+    },
     "1549038": {
       "job_no": "1549038",
       "school_raw": "Bayside P-12 College",
@@ -1767,6 +1847,14 @@
       "classification": "ES1-3",
       "role_group": "education_support",
       "first_seen": "2026-11-23"
+    },
+    "1549064": {
+      "job_no": "1549064",
+      "school_raw": "Warrnambool East Primary Schoo",
+      "position": "Assistant Principal-Range 2 - Learning",
+      "classification": "AP-2",
+      "role_group": "leadership",
+      "first_seen": "2026-11-26"
     },
     "1549090": {
       "job_no": "1549090",
@@ -1936,6 +2024,14 @@
       "role_group": "teaching",
       "first_seen": "2026-11-23"
     },
+    "1549353": {
+      "job_no": "1549353",
+      "school_raw": "Mickleham Secondary College",
+      "position": "Classroom Teacher - English **2027 Start**",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-26"
+    },
     "1549357": {
       "job_no": "1549357",
       "school_raw": "Willmott Park Primary School",
@@ -1983,6 +2079,30 @@
       "classification": "GRD",
       "role_group": "teaching",
       "first_seen": "2026-11-23"
+    },
+    "1549382": {
+      "job_no": "1549382",
+      "school_raw": "Warrnambool East Primary Schoo",
+      "position": "Leading Teacher Range 3 - Learning",
+      "classification": "LEAD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-26"
+    },
+    "1549393": {
+      "job_no": "1549393",
+      "school_raw": "Warrnambool East Primary Schoo",
+      "position": "Leading Teacher Range 3 - Learning",
+      "classification": "LEAD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-26"
+    },
+    "1549409": {
+      "job_no": "1549409",
+      "school_raw": "Warrnambool East Primary Schoo",
+      "position": "Leading Teacher Range 3 - Mental Health and Wellbeing",
+      "classification": "LEAD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-26"
     },
     "1549413": {
       "job_no": "1549413",
@@ -2376,6 +2496,14 @@
       "role_group": "teaching",
       "first_seen": "2026-11-25"
     },
+    "1550552": {
+      "job_no": "1550552",
+      "school_raw": "Westgarth Primary School",
+      "position": "Assistant Principal-Range 1",
+      "classification": "AP-1",
+      "role_group": "leadership",
+      "first_seen": "2026-11-26"
+    },
     "1550573": {
       "job_no": "1550573",
       "school_raw": "Whittlesea Secondary College",
@@ -2600,6 +2728,38 @@
       "role_group": "education_support",
       "first_seen": "2026-11-24"
     },
+    "1551159": {
+      "job_no": "1551159",
+      "school_raw": "Ngayuk College",
+      "position": "English/Humanities Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-26"
+    },
+    "1551160": {
+      "job_no": "1551160",
+      "school_raw": "Ngayuk College",
+      "position": "English/Humanities Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-26"
+    },
+    "1551164": {
+      "job_no": "1551164",
+      "school_raw": "Ngayuk College",
+      "position": "Maths/Science Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-26"
+    },
+    "1551174": {
+      "job_no": "1551174",
+      "school_raw": "Ngayuk College",
+      "position": "Health/Physical Education Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-26"
+    },
     "1551196": {
       "job_no": "1551196",
       "school_raw": "Dharra School",
@@ -2616,6 +2776,14 @@
       "role_group": "education_support",
       "first_seen": "2026-11-23"
     },
+    "1551347": {
+      "job_no": "1551347",
+      "school_raw": "Altona College",
+      "position": "Learning Specialist - Positive Classroom Management Coach: 7-12",
+      "classification": "LEARN",
+      "role_group": "teaching",
+      "first_seen": "2026-11-26"
+    },
     "1551406": {
       "job_no": "1551406",
       "school_raw": "Trafalgar Primary School",
@@ -2623,6 +2791,30 @@
       "classification": "CLASS2",
       "role_group": "teaching",
       "first_seen": "2026-11-24"
+    },
+    "1551494": {
+      "job_no": "1551494",
+      "school_raw": "Casey Fields Primary School",
+      "position": "Learning Specialist: Junior Sub-School Wellbeing",
+      "classification": "LEARN",
+      "role_group": "teaching",
+      "first_seen": "2026-11-26"
+    },
+    "1551496": {
+      "job_no": "1551496",
+      "school_raw": "Warragul Regional College",
+      "position": "Japanese Classroom Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-26"
+    },
+    "1551546": {
+      "job_no": "1551546",
+      "school_raw": "William Ruthven Sec. College",
+      "position": "Inclusion Leader",
+      "classification": "LEAD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-26"
     },
     "1551672": {
       "job_no": "1551672",
@@ -2640,6 +2832,14 @@
       "role_group": "teaching",
       "first_seen": "2026-11-23"
     },
+    "1551856": {
+      "job_no": "1551856",
+      "school_raw": "Gleneagles Secondary College",
+      "position": "Assistant Principal-Range 1 - Middle School (7-9)",
+      "classification": "AP-1",
+      "role_group": "leadership",
+      "first_seen": "2026-11-26"
+    },
     "1551860": {
       "job_no": "1551860",
       "school_raw": "Bendigo Senior Secondary Colle",
@@ -2656,6 +2856,14 @@
       "role_group": "teaching",
       "first_seen": "2026-11-23"
     },
+    "1551871": {
+      "job_no": "1551871",
+      "school_raw": "Bacchus Marsh Primary School",
+      "position": "Administration /Enrolment Officer",
+      "classification": "ES1-2",
+      "role_group": "education_support",
+      "first_seen": "2026-11-26"
+    },
     "1552003": {
       "job_no": "1552003",
       "school_raw": "Cranbourne South Primary Sch",
@@ -2663,6 +2871,14 @@
       "classification": "GRD",
       "role_group": "teaching",
       "first_seen": "2026-11-23"
+    },
+    "1552012": {
+      "job_no": "1552012",
+      "school_raw": "Wyndham Park Primary School",
+      "position": "Leading Teacher - Learning & Wellbeing",
+      "classification": "LEAD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-26"
     },
     "1552065": {
       "job_no": "1552065",
@@ -2687,6 +2903,14 @@
       "classification": "CLASS",
       "role_group": "teaching",
       "first_seen": "2026-11-23"
+    },
+    "1552351": {
+      "job_no": "1552351",
+      "school_raw": "Pakenham Secondary College",
+      "position": "Business Manager/HR Manager/Timetable Development",
+      "classification": "ES2-6",
+      "role_group": "education_support",
+      "first_seen": "2026-11-26"
     },
     "1552472": {
       "job_no": "1552472",
@@ -2728,6 +2952,14 @@
       "role_group": "teaching",
       "first_seen": "2026-11-23"
     },
+    "1552615": {
+      "job_no": "1552615",
+      "school_raw": "Rowville Primary School",
+      "position": "Performing Arts",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-26"
+    },
     "1552778": {
       "job_no": "1552778",
       "school_raw": "Apollo Bay P-12 College",
@@ -2751,6 +2983,14 @@
       "classification": "CLASS",
       "role_group": "teaching",
       "first_seen": "2026-11-23"
+    },
+    "1553048": {
+      "job_no": "1553048",
+      "school_raw": "Welshpool & District Primary S",
+      "position": "Teacher",
+      "classification": "CLASS2",
+      "role_group": "teaching",
+      "first_seen": "2026-11-26"
     },
     "1553261": {
       "job_no": "1553261",
@@ -2799,6 +3039,14 @@
       "classification": "CLASS",
       "role_group": "teaching",
       "first_seen": "2026-11-23"
+    },
+    "1553998": {
+      "job_no": "1553998",
+      "school_raw": "Woolsthorpe Primary School",
+      "position": "Classroom Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-26"
     },
     "1554006": {
       "job_no": "1554006",
