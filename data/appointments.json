@@ -456,6 +456,14 @@
       "role_group": "teaching",
       "first_seen": "2026-11-24"
     },
+    "1544792": {
+      "job_no": "1544792",
+      "school_raw": "Brentwood Park Primary School",
+      "position": "Assistant Principal-Range 1",
+      "classification": "AP-1",
+      "role_group": "leadership",
+      "first_seen": "2026-11-27"
+    },
     "1545058": {
       "job_no": "1545058",
       "school_raw": "Lakeview Senior College",
@@ -479,6 +487,14 @@
       "classification": "LEAD",
       "role_group": "teaching",
       "first_seen": "2026-11-23"
+    },
+    "1545307": {
+      "job_no": "1545307",
+      "school_raw": "Brentwood Park Primary School",
+      "position": "Learning Specialist 3",
+      "classification": "LEARN",
+      "role_group": "teaching",
+      "first_seen": "2026-11-27"
     },
     "1545714": {
       "job_no": "1545714",
@@ -551,6 +567,14 @@
       "classification": "CLASS",
       "role_group": "teaching",
       "first_seen": "2026-11-23"
+    },
+    "1546184": {
+      "job_no": "1546184",
+      "school_raw": "Nearnung Primary School",
+      "position": "Graduate Teacher @ Nearnung PS 2027",
+      "classification": "GRD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-27"
     },
     "1546283": {
       "job_no": "1546283",
@@ -719,6 +743,22 @@
       "classification": "ES1-2",
       "role_group": "education_support",
       "first_seen": "2026-11-23"
+    },
+    "1546966": {
+      "job_no": "1546966",
+      "school_raw": "Niddrie Autistic School",
+      "position": "Teacher Support 0.97 time fraction 5 days/week - Multi Campus - Niddrie and Keilor East",
+      "classification": "ES1-2",
+      "role_group": "education_support",
+      "first_seen": "2026-11-27"
+    },
+    "1546973": {
+      "job_no": "1546973",
+      "school_raw": "Niddrie Autistic School",
+      "position": "Teacher Support 0.81 time fraction 5 days/week - Multi Campus - Niddrie and Keilor East",
+      "classification": "ES1-2",
+      "role_group": "education_support",
+      "first_seen": "2026-11-27"
     },
     "1546974": {
       "job_no": "1546974",
@@ -1359,6 +1399,14 @@
       "classification": "CLASS",
       "role_group": "teaching",
       "first_seen": "2026-11-23"
+    },
+    "1548307": {
+      "job_no": "1548307",
+      "school_raw": "Koonung Secondary College",
+      "position": "Japanese language teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-27"
     },
     "1548313": {
       "job_no": "1548313",
@@ -2144,6 +2192,14 @@
       "role_group": "teaching",
       "first_seen": "2026-11-23"
     },
+    "1549499": {
+      "job_no": "1549499",
+      "school_raw": "Bemin Secondary College",
+      "position": "Assistant Principal-Applied Learning - - Respect, Excellence, Innovation & Community",
+      "classification": "AP-2",
+      "role_group": "leadership",
+      "first_seen": "2026-11-27"
+    },
     "1549503": {
       "job_no": "1549503",
       "school_raw": "Mickleham Secondary College",
@@ -2384,6 +2440,14 @@
       "role_group": "teaching",
       "first_seen": "2026-11-23"
     },
+    "1549973": {
+      "job_no": "1549973",
+      "school_raw": "Baden Powell P-9 College",
+      "position": "2027 Start Primary Classroom Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-27"
+    },
     "1549999": {
       "job_no": "1549999",
       "school_raw": "Nearnung Primary School",
@@ -2544,6 +2608,14 @@
       "role_group": "education_support",
       "first_seen": "2026-11-23"
     },
+    "1550682": {
+      "job_no": "1550682",
+      "school_raw": "Warragul Regional College",
+      "position": "Digital Technology Classroom Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-27"
+    },
     "1550736": {
       "job_no": "1550736",
       "school_raw": "Hampton East School",
@@ -2655,6 +2727,14 @@
       "classification": "CLASS",
       "role_group": "teaching",
       "first_seen": "2026-11-23"
+    },
+    "1550957": {
+      "job_no": "1550957",
+      "school_raw": "Carlisle River Primary School",
+      "position": "Classroom Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-27"
     },
     "1550963": {
       "job_no": "1550963",
@@ -2792,6 +2872,14 @@
       "role_group": "teaching",
       "first_seen": "2026-11-24"
     },
+    "1551482": {
+      "job_no": "1551482",
+      "school_raw": "Ngayuk College",
+      "position": "Art/Music Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-27"
+    },
     "1551494": {
       "job_no": "1551494",
       "school_raw": "Casey Fields Primary School",
@@ -2815,6 +2903,30 @@
       "classification": "LEAD",
       "role_group": "teaching",
       "first_seen": "2026-11-26"
+    },
+    "1551555": {
+      "job_no": "1551555",
+      "school_raw": "Yarrabing Secondary College",
+      "position": "Japanese LOTE Teacher (Ongoing) 0.80 - 2027 - New School in Aintree",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-27"
+    },
+    "1551594": {
+      "job_no": "1551594",
+      "school_raw": "Footscray North Primary School",
+      "position": "Leading Teacher - Wellbeing and Inclusion",
+      "classification": "LEAD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-27"
+    },
+    "1551661": {
+      "job_no": "1551661",
+      "school_raw": "Keysborough Secondary College",
+      "position": "Maths & Science Teacher *Ongoing*",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-27"
     },
     "1551672": {
       "job_no": "1551672",
@@ -2904,6 +3016,22 @@
       "role_group": "teaching",
       "first_seen": "2026-11-23"
     },
+    "1552226": {
+      "job_no": "1552226",
+      "school_raw": "Port Melbourne Sec College",
+      "position": "English Classroom Teacher: Full-time, Ongoing",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-27"
+    },
+    "1552302": {
+      "job_no": "1552302",
+      "school_raw": "McKinnon Secondary College",
+      "position": "English / EAL Teacher 7-12",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-27"
+    },
     "1552351": {
       "job_no": "1552351",
       "school_raw": "Pakenham Secondary College",
@@ -2911,6 +3039,14 @@
       "classification": "ES2-6",
       "role_group": "education_support",
       "first_seen": "2026-11-26"
+    },
+    "1552415": {
+      "job_no": "1552415",
+      "school_raw": "Donnybrook Primary School",
+      "position": "Classroom Teacher 2027",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-27"
     },
     "1552472": {
       "job_no": "1552472",
@@ -2944,6 +3080,14 @@
       "role_group": "teaching",
       "first_seen": "2026-11-23"
     },
+    "1552574": {
+      "job_no": "1552574",
+      "school_raw": "Springval Rise Primary School",
+      "position": "Inclusion Support Teacher/Generalist Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-27"
+    },
     "1552582": {
       "job_no": "1552582",
       "school_raw": "Banyule Primary School",
@@ -2967,6 +3111,14 @@
       "classification": "ES1-2",
       "role_group": "education_support",
       "first_seen": "2026-11-23"
+    },
+    "1552897": {
+      "job_no": "1552897",
+      "school_raw": "Zeerust Primary School",
+      "position": "Integration Aide",
+      "classification": "ES1-2",
+      "role_group": "education_support",
+      "first_seen": "2026-11-27"
     },
     "1552928": {
       "job_no": "1552928",
@@ -3055,6 +3207,14 @@
       "classification": "ES1-2",
       "role_group": "education_support",
       "first_seen": "2026-11-24"
+    },
+    "1554640": {
+      "job_no": "1554640",
+      "school_raw": "Officer Specialist School",
+      "position": "Classroom Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-27"
     },
     "1554652": {
       "job_no": "1554652",
