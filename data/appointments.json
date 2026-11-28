@@ -24,6 +24,14 @@
       "role_group": "teaching",
       "first_seen": "2026-11-23"
     },
+    "1538199": {
+      "job_no": "1538199",
+      "school_raw": "Lindenow South Primary School",
+      "position": "Principal-Range 2",
+      "classification": "PR-2",
+      "role_group": "leadership",
+      "first_seen": "2026-11-28"
+    },
     "1538490": {
       "job_no": "1538490",
       "school_raw": "Hamilton Parklands School",
@@ -544,6 +552,14 @@
       "role_group": "leadership",
       "first_seen": "2026-11-23"
     },
+    "1546033": {
+      "job_no": "1546033",
+      "school_raw": "Scoresby Primary School",
+      "position": "Principal-Range 3",
+      "classification": "PR-3",
+      "role_group": "leadership",
+      "first_seen": "2026-11-28"
+    },
     "1546136": {
       "job_no": "1546136",
       "school_raw": "Sunbury Downs Secondary Colleg",
@@ -880,6 +896,14 @@
       "role_group": "leadership",
       "first_seen": "2026-11-25"
     },
+    "1547125": {
+      "job_no": "1547125",
+      "school_raw": "Toolamba Primary School",
+      "position": "Principal-Range 2",
+      "classification": "PR-2",
+      "role_group": "leadership",
+      "first_seen": "2026-11-28"
+    },
     "1547165": {
       "job_no": "1547165",
       "school_raw": "Doncaster Secondary College",
@@ -895,6 +919,14 @@
       "classification": "AP-2",
       "role_group": "leadership",
       "first_seen": "2026-11-23"
+    },
+    "1547190": {
+      "job_no": "1547190",
+      "school_raw": "Forest Street Primary School",
+      "position": "Administration/Business - Other",
+      "classification": "ES1-3",
+      "role_group": "education_support",
+      "first_seen": "2026-11-28"
     },
     "1547204": {
       "job_no": "1547204",
@@ -1624,6 +1656,14 @@
       "role_group": "education_support",
       "first_seen": "2026-11-23"
     },
+    "1548706": {
+      "job_no": "1548706",
+      "school_raw": "Barramayil Primary School",
+      "position": "Classroom Teacher (0.4 or 0.6) **NEW SCHOOL IN AINTREE - opening 2027**",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-28"
+    },
     "1548707": {
       "job_no": "1548707",
       "school_raw": "Barramayil Primary School",
@@ -1719,6 +1759,14 @@
       "classification": "LEARN",
       "role_group": "teaching",
       "first_seen": "2026-11-23"
+    },
+    "1548775": {
+      "job_no": "1548775",
+      "school_raw": "Cowwarr Primary School",
+      "position": "Business Manager",
+      "classification": "ES1-3",
+      "role_group": "education_support",
+      "first_seen": "2026-11-28"
     },
     "1548787": {
       "job_no": "1548787",
@@ -2256,6 +2304,14 @@
       "role_group": "teaching",
       "first_seen": "2026-11-23"
     },
+    "1549579": {
+      "job_no": "1549579",
+      "school_raw": "Nagambie Primary School",
+      "position": "Graduate Teacher - 0.8 FTE (4 days)",
+      "classification": "GRD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-28"
+    },
     "1549594": {
       "job_no": "1549594",
       "school_raw": "Donnybrook Primary School",
@@ -2271,6 +2327,14 @@
       "classification": "GRD",
       "role_group": "teaching",
       "first_seen": "2026-11-23"
+    },
+    "1549612": {
+      "job_no": "1549612",
+      "school_raw": "Ringwood North Primary School",
+      "position": "Administration Support",
+      "classification": "ES1-2",
+      "role_group": "education_support",
+      "first_seen": "2026-11-28"
     },
     "1549642": {
       "job_no": "1549642",
@@ -2296,6 +2360,14 @@
       "role_group": "teaching",
       "first_seen": "2026-11-23"
     },
+    "1549703": {
+      "job_no": "1549703",
+      "school_raw": "Oxley Primary School",
+      "position": "Principal-Range 2",
+      "classification": "PR-2",
+      "role_group": "leadership",
+      "first_seen": "2026-11-28"
+    },
     "1549734": {
       "job_no": "1549734",
       "school_raw": "Brinbeal Secondary College",
@@ -2303,6 +2375,14 @@
       "classification": "CLASS",
       "role_group": "teaching",
       "first_seen": "2026-11-23"
+    },
+    "1549751": {
+      "job_no": "1549751",
+      "school_raw": "Leopold Primary School",
+      "position": "Assistant Principal-Range 1",
+      "classification": "AP-1",
+      "role_group": "leadership",
+      "first_seen": "2026-11-28"
     },
     "1549764": {
       "job_no": "1549764",
@@ -2488,6 +2568,14 @@
       "role_group": "teaching",
       "first_seen": "2026-11-24"
     },
+    "1550077": {
+      "job_no": "1550077",
+      "school_raw": "Bass Coast Specialist School",
+      "position": "Classroom Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-28"
+    },
     "1550081": {
       "job_no": "1550081",
       "school_raw": "Endeavour Hills Specialist Sc",
@@ -2512,6 +2600,30 @@
       "role_group": "teaching",
       "first_seen": "2026-11-24"
     },
+    "1550174": {
+      "job_no": "1550174",
+      "school_raw": "Lake Bolac College",
+      "position": "Principal-Range 3",
+      "classification": "PR-3",
+      "role_group": "leadership",
+      "first_seen": "2026-11-28"
+    },
+    "1550195": {
+      "job_no": "1550195",
+      "school_raw": "St Kilda Primary School",
+      "position": "Teacher Aide",
+      "classification": "ES1-2",
+      "role_group": "education_support",
+      "first_seen": "2026-11-28"
+    },
+    "1550230": {
+      "job_no": "1550230",
+      "school_raw": "St Kilda Primary School",
+      "position": "Teacher Aide",
+      "classification": "ES1-2",
+      "role_group": "education_support",
+      "first_seen": "2026-11-28"
+    },
     "1550309": {
       "job_no": "1550309",
       "school_raw": "Wyndham Park Primary School",
@@ -2535,6 +2647,14 @@
       "classification": "CLASS",
       "role_group": "teaching",
       "first_seen": "2026-11-23"
+    },
+    "1550435": {
+      "job_no": "1550435",
+      "school_raw": "Bass Coast Specialist School",
+      "position": "Receptionist",
+      "classification": "ES1-2",
+      "role_group": "education_support",
+      "first_seen": "2026-11-28"
     },
     "1550436": {
       "job_no": "1550436",
@@ -2712,6 +2832,14 @@
       "role_group": "teaching",
       "first_seen": "2026-11-23"
     },
+    "1550923": {
+      "job_no": "1550923",
+      "school_raw": "Robinvale College",
+      "position": "Secondary Classroom Teacher - Mathematics (TFI 101)",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-28"
+    },
     "1550936": {
       "job_no": "1550936",
       "school_raw": "Manorvale Primary School",
@@ -2800,6 +2928,14 @@
       "role_group": "teaching",
       "first_seen": "2026-11-23"
     },
+    "1551143": {
+      "job_no": "1551143",
+      "school_raw": "Jacana School for Autism",
+      "position": "Leading Teacher - Sub School Leader",
+      "classification": "LEAD",
+      "role_group": "teaching",
+      "first_seen": "2026-11-28"
+    },
     "1551151": {
       "job_no": "1551151",
       "school_raw": "Donburn Primary School",
@@ -2864,6 +3000,14 @@
       "role_group": "teaching",
       "first_seen": "2026-11-26"
     },
+    "1551405": {
+      "job_no": "1551405",
+      "school_raw": "Yarram Primary School",
+      "position": "Classroom and Student Support - Other",
+      "classification": "ES1-2",
+      "role_group": "education_support",
+      "first_seen": "2026-11-28"
+    },
     "1551406": {
       "job_no": "1551406",
       "school_raw": "Trafalgar Primary School",
@@ -2911,6 +3055,22 @@
       "classification": "CLASS",
       "role_group": "teaching",
       "first_seen": "2026-11-27"
+    },
+    "1551580": {
+      "job_no": "1551580",
+      "school_raw": "Eaglehawk Secondary College",
+      "position": "Humanities Classroom Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-28"
+    },
+    "1551588": {
+      "job_no": "1551588",
+      "school_raw": "Eaglehawk Secondary College",
+      "position": "English/Humanities Classroom Teacher",
+      "classification": "CLASS",
+      "role_group": "teaching",
+      "first_seen": "2026-11-28"
     },
     "1551594": {
       "job_no": "1551594",
@@ -2975,6 +3135,14 @@
       "classification": "ES1-2",
       "role_group": "education_support",
       "first_seen": "2026-11-26"
+    },
+    "1551947": {
+      "job_no": "1551947",
+      "school_raw": "Rolling Hills Primary School",
+      "position": "Assistant Principal-Range 1 Student Wellbeing and Engagement",
+      "classification": "AP-1",
+      "role_group": "leadership",
+      "first_seen": "2026-11-28"
     },
     "1552003": {
       "job_no": "1552003",
@@ -3095,6 +3263,14 @@
       "classification": "GRD",
       "role_group": "teaching",
       "first_seen": "2026-11-23"
+    },
+    "1552586": {
+      "job_no": "1552586",
+      "school_raw": "Vermont South Special School",
+      "position": "Learning Specialist - Maths",
+      "classification": "LEARN",
+      "role_group": "teaching",
+      "first_seen": "2026-11-28"
     },
     "1552615": {
       "job_no": "1552615",
@@ -3239,6 +3415,38 @@
       "classification": "ES1-2",
       "role_group": "education_support",
       "first_seen": "2026-11-25"
+    },
+    "1554897": {
+      "job_no": "1554897",
+      "school_raw": "Northern Bay P-12 College",
+      "position": "Classroom Support - Integration Teacher Aide",
+      "classification": "ES1-2",
+      "role_group": "education_support",
+      "first_seen": "2026-11-28"
+    },
+    "1554899": {
+      "job_no": "1554899",
+      "school_raw": "Northern Bay P-12 College",
+      "position": "Classroom Support - Integration Teacher Aide",
+      "classification": "ES1-2",
+      "role_group": "education_support",
+      "first_seen": "2026-11-28"
+    },
+    "1554906": {
+      "job_no": "1554906",
+      "school_raw": "Northern Bay P-12 College",
+      "position": "Classroom Support - Integration Teacher Aide",
+      "classification": "ES1-2",
+      "role_group": "education_support",
+      "first_seen": "2026-11-28"
+    },
+    "1554907": {
+      "job_no": "1554907",
+      "school_raw": "Northern Bay P-12 College",
+      "position": "Classroom Support - Integration Teacher Aide",
+      "classification": "ES1-2",
+      "role_group": "education_support",
+      "first_seen": "2026-11-28"
     }
   }
 }
