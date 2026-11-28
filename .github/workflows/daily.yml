@@ -2,7 +2,7 @@ name: Daily capture
 
 on:
   schedule:
-    - cron: '30 19 * * *'   # 19:30 UTC = about 6:30am Melbourne
+    - cron: '30 19 * * *'   # 19:30 UTC; GitHub often starts it hours late (early afternoon in Melbourne so far)
   workflow_dispatch:         # lets you run it by hand from the Actions tab
 
 permissions:
@@ -15,10 +15,10 @@ concurrency:
 jobs:
   capture:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 30
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
         with:
           node-version: 22
       - run: npm install --no-audit --no-fund
